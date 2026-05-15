@@ -1,0 +1,6 @@
+{
+  "name": "GlobalSearch AI",
+  "description": "An interactive global search engine with real-time web search, data analysis, and report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time search", "Data analysis", "PDF reports", "File attachments"]
+}
